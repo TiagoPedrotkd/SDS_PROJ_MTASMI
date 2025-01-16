@@ -1,0 +1,7 @@
+source("scripts/install_packages.R")
+source("scripts/load_data.R")
+source("scripts/descriptive_stats.R")
+source("scripts/econometric_models.R")
+source("scripts/diagnostics.R")
+source("scripts/visualization.R")
+source("scripts/export_results.R")

@@ -1,0 +1,7 @@
+
+	Hausman Test
+
+data:  count ~ period + incident_category
+chisq = 30.65, df = 5, p-value = 1.098e-05
+alternative hypothesis: one model is inconsistent
+
